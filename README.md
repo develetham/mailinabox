@@ -3,7 +3,7 @@ Mail-in-a-Box (Ubuntu 16.04 aware)
 
 **This is a fork**
 
-For original sources, see [Mail-in-a-Box](https://github.com/mail-in-a-box/mailinabox)!
+For original sources, see [Mail-in-a-Box](https://github.com/mail-in-a-box/mailinabox)! and another fork from https://github.com/jirislav/mailinabox (updated to Ubuntu 16.04)
 
 Why is this fork special?
 -------------------------
